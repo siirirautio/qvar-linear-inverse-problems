@@ -41,6 +41,7 @@ The codes were developed and tested using Python 3 together with the following p
 - Matplotlib
 - Qiskit
 - IQM Qiskit Provider
+  
 The experiments were executed using the software environment available through the LUMI supercomputer at the time of the experiments (April-June 2026).
 
 ## Citation
