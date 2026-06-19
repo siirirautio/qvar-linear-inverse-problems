@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20758577.svg)](https://doi.org/10.5281/zenodo.10.5281/zenodo.20758577)
+
 # QVAR
 
 Copyright (c) 2026 Siiri Rautio, Hjørdis Schlüter, Andreas Hauptmann, Babak Maboudi Afkham
