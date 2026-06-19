@@ -1,6 +1,6 @@
-# Scalar Linear Inverse Problem with Tikhonov Regularization
+# 1-Scalar Linear Inverse Problem with Tikhonov Regularization
 
-This folder contains the code and archived results for the scalar linear inverse problem presented in Section 6.1 of
+This folder contains the code and archived results for the 1-scalar linear inverse problem presented in Section 6.1 of
 
 > QVAR: A Quantum Variational Regularization Method for Linear Inverse Problems.
 
