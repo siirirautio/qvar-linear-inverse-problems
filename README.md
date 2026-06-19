@@ -4,7 +4,7 @@ Copyright (c) 2026 Siiri Rautio, Hjørdis Schlüter, Andreas Hauptmann, Babak Ma
 
 This repository contains the source code, archived quantum hardware results, and plotting scripts required to reproduce the numerical experiments presented in the manuscript
 
-### "QVAR: A Quantum Variational Regularization Method for Linear Inverse Problems".
+> QVAR: A Quantum Variational Regularization Method for Linear Inverse Problems.
 
 ## Authors
 
